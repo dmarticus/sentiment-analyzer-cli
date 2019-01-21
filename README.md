@@ -6,11 +6,7 @@ More features to come.  Some of my TODOs are adding a "mixed" sentiment rating (
 
 ## Usage
 
-1. Clone this repo `git clone git@github.com:dmarticus/sentiment-analyzer-cli.git`
-2. Compile and build the binary by running `./build.sh`
-3. Execute the CLI by running `./sentiment_analyzer`
-4. ???
-5. Profit
+To use this project, you need to have `git` and `Go` installed.  I wrote a build script for this but it didn't work as soon as somebody who's not me tried testing it so this is all a todo now.
 
 ### Acknowledgements
 

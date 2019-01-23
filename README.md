@@ -6,7 +6,7 @@ More features to come.  Some of my TODOs are adding a "mixed" sentiment rating (
 
 ## Usage
 
-To use this project, you need to have `git` and `Go` installed.  I wrote a build script for this but it didn't work as soon as somebody who's not me tried testing it so this is all a todo now.
+To use this project, you need to have `git` and `Go` installed.  To build and run the project, clone this repo, and then execute `./build.sh` from the project root.  This should start up your command line prompt.
 
 ### Acknowledgements
 
